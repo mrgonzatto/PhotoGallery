@@ -1,4 +1,5 @@
-﻿namespace GalleryApp.Models
+﻿using System;
+namespace GalleryApp.Models
 {
     public class Photo
     {
